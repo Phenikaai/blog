@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning là gì?
 subtitle: Các định nghĩa khác nhau về Machine Learning
 date:       2021-08-29 8:00:00
-author:     "John Mai"
+author:     "Mai Xuan Trang"
 background: '/img/posts/07.jpg'
 ---
 

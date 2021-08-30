@@ -15,7 +15,7 @@ instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown: kramdown
@@ -23,13 +23,6 @@ rouge: pygments
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
-
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  auto_ids:       true
-  toc_levels:     1..3
-
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
