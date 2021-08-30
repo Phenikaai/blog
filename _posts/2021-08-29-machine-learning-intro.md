@@ -81,7 +81,4 @@ Bạn cũng nên tham gia vào các Q&A websites, có rất nhiều thảo luậ
 
 - **Quora**: [What is machine learning in layman's terms](https://www.quora.com/What-is-machine-learning-in-laymans-terms-1?redirected_qid=1155077), [What is data science?](https://www.quora.com/Data-Science/What-is-data-science)
 - **Cross Validated**: [The Two Cultures: statistics vs. machine learning?](http://stats.stackexchange.com/questions/6/the-two-cultures-statistics-vs-machine-learning)
-- Stack Overflow: [ What is machine learning?](http://stackoverflow.com/questions/2620343/what-is-machine-learning)
-
-
-Nếu bạn có thêm thông tin và tài nguyên về Machine Learning, xin viết comments ở phía dưới. Mục tiêu của blog là kết nối và chia sẻ qua đó phát triển công đồng Machine Learning và Data Science ở Việt Nam.
+- **Stack Overflow**: [ What is machine learning?](http://stackoverflow.com/questions/2620343/what-is-machine-learning)
