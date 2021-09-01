@@ -4,7 +4,7 @@ title: Chuỗi hướng dẫn về NVIDIA NGC
 subtitle: Chạy Docker Container sử dụng Nvidia-Container-Toolkit trên Ubuntu
 date:       2021-09-1
 author:     "Mai Xuan Trang"
-background: '/img/posts/07.jpg'
+background: '/img/posts/nvidia-ngc.jpg'
 ---
 
 Khi đọc báo tôi thường hay phải chạy lại các thí nghiệm (code) của các bài báo đó. Code cung cấp bởi các tác giả thường cũ và không được cập nhật. Tác giả thông thường cũng không viết chi tiết hoặc có rất it thông tin về môi trường họ chạy code. Việc tìm kiếm và cài đặt được các thư viện cho đúng để chạy được code thực sự là một ác mộng. Đặc biệt là khi chạy các mô hình học sâu trên NVIDIA GPU, việc cài đặt đúng phiên bản CUDA, đúng CUDA driver và đúng phiên bản các frameworks (Pytorch, Tensorflow, ...) là công việc tốn rất nhiều thời gian. Chưa kể đến việc cài đặt lại trên môi trường máy chủ lại có thể gây ảnh hưởng đến người khác.
